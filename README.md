@@ -80,9 +80,6 @@ Olá! Sou a Maria Eduarda, tenho 19 anos e sou do interior de São Paulo. Atualm
   />
 </p>
 
-<br/>
-<br/>
-
 <p>
   <img 
     align="left" 
@@ -93,7 +90,6 @@ Olá! Sou a Maria Eduarda, tenho 19 anos e sou do interior de São Paulo. Atualm
 </p>
 
 <p>
-</br></br>
 <a href="https://www.linkedin.com/in/mariaeduperes/">
         <img 
             align="right"
