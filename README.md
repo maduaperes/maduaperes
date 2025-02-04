@@ -93,20 +93,11 @@ Olá! Sou a Maria Eduarda, tenho 19 anos e sou do interior de São Paulo. Atualm
 </p>
 
 <p>
-  <img 
-    align="right" 
-    alt="maduaperes gif" 
-    height="150" 
-    src="https://github.com/user-attachments/assets/d852cc5b-6ba6-4b46-b660-98cd1a1249e5" 
-  />
-</p>
-
-<p>
 </br></br>
 <a href="https://www.linkedin.com/in/mariaeduperes/">
         <img 
-            align="right"
-            height="55" 
+            align="center"
+            height="30" 
             alt="Seguidores" 
             title="Siga-me no GitHub" 
             src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"
@@ -114,4 +105,13 @@ Olá! Sou a Maria Eduarda, tenho 19 anos e sou do interior de São Paulo. Atualm
     </a>
 </p>
 
+
+<p>
+  <img 
+    align="right" 
+    alt="maduaperes gif" 
+    height="150" 
+    src="https://github.com/user-attachments/assets/d852cc5b-6ba6-4b46-b660-98cd1a1249e5" 
+  />
+</p>
  
