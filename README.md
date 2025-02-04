@@ -3,25 +3,25 @@
 Olá! Sou a Maria Eduarda, tenho 19 anos e sou do interior de São Paulo. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas no Senac Sorocaba. Sou apaixonada por tecnologia e estou sempre procurando aprimorar meus conhecimentos e habilidades na área.
 
 <p align="left">
-    <a href="https://www.youtube.com/@maduaperes">
+    <a href="https://www.instagram.com/maduaperes/">
         <img 
-            alt="youtube subscribers" 
-            title="Inscreva-se no meu canal" 
-            src="https://custom-icon-badges.demolab.com/youtube/channel/subscribers/UCo-gJ8RnTn5akHqHvO55DVA?color=%23E05D44&label=Inscreva-se&logo=video&logoColor=white&style=for-the-badge&labelColor=CE4630"
+            alt="Instagram Profile" 
+            title="Siga-me no instagram" 
+            src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"
         />
     </a>
-    <a href="https://www.youtube.com/@maduaperes">
+    <a href="https://snapchat.com/t/uNpxSjK7">
         <img 
-            alt="youtube views" 
-            title="Vizualizações no YouTube" 
-            src="https://custom-icon-badges.demolab.com/youtube/channel/views/UCo-gJ8RnTn5akHqHvO55DVA?color=%23E1AD0E&logo=eye&logoColor=white&style=for-the-badge&labelColor=C79600"
+            alt="Snapchat Profile" 
+            title="Siga-me no Snapchat" 
+            src="https://img.shields.io/badge/Snapchat-FFFC00?style=for-the-badge&logo=snapchat&logoColor=white"
         />
     </a> 
-    <a href="https://github.com/maduaperes?tab=repositories&sort=stargazers">
+    <a href="https://www.facebook.com/profile.php?id=61552514643751">
         <img 
-            alt="Total de estrelas" 
-            title="Total de estrelas GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/stars/Larissakich?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
+            alt="Facebook Profile" 
+            title="Siga-me no Facebook" 
+            src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"
         />
     </a>
     <a href="https://github.com/maduaperes?tab=followers">
@@ -77,5 +77,19 @@ Olá! Sou a Maria Eduarda, tenho 19 anos e sou do interior de São Paulo. Atualm
     alt="GitHub Stats" 
     height="233" 
     src="https://github-readme-stats.vercel.app/api?username=maduaperes&show_icons=true&theme=dracula" 
+  />
+</p>
+<p>
+<br><br>
+<br><br>
+<br><br>
+<br><br>
+<br><br>
+<br><br>
+  <img 
+    align="left" 
+    alt="GitHub Stats" 
+    height="168" 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=maduaperes&theme=dracula" 
   />
 </p>
