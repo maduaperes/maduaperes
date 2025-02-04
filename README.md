@@ -34,7 +34,6 @@ Olá! Sou a Maria Eduarda, tenho 19 anos e sou do interior de São Paulo. Atualm
 </p>
 
 ---
-
 <img 
     align="left" 
     alt="HTML"
@@ -68,8 +67,10 @@ Olá! Sou a Maria Eduarda, tenho 19 anos e sou do interior de São Paulo. Atualm
     style="padding-right: 10px;" 
     src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" 
 />
+
 <br/>
 <br/>
+
 <p>
   <img 
     align="left" 
@@ -78,9 +79,11 @@ Olá! Sou a Maria Eduarda, tenho 19 anos e sou do interior de São Paulo. Atualm
     src="https://github-readme-stats.vercel.app/api?username=maduaperes&show_icons=true&theme=dracula" 
   />
 </p>
-<img src="https://github.com/user-attachments/assets/d852cc5b-6ba6-4b46-b660-98cd1a1249e5" width="200" align="right"/>
+
+<br/>
+<br/>
+
 <p>
-<br><br>
   <img 
     align="left" 
     alt="GitHub Stats" 
@@ -88,3 +91,15 @@ Olá! Sou a Maria Eduarda, tenho 19 anos e sou do interior de São Paulo. Atualm
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=maduaperes&theme=dracula" 
   />
 </p>
+
+<p>
+  <img 
+    align="left" 
+    alt="maduaperes gif" 
+    height="150" 
+    src="https://github.com/user-attachments/assets/d852cc5b-6ba6-4b46-b660-98cd1a1249e5" 
+  />
+</p>
+
+
+ 
