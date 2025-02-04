@@ -92,6 +92,3 @@ Olá! Sou a Maria Eduarda, tenho 19 anos e sou do interior de São Paulo. Atualm
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=maduaperes&theme=dracula&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
 </p>
-
-<img src="https://www.canva.com/design/DAGeKtlxuuo/F6s3sX0MvGKVVgx6GulA4Q/edit">
-
