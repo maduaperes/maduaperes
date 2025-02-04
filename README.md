@@ -2,6 +2,7 @@
 
 Olá! Sou a Maria Eduarda, tenho 19 anos e sou do interior de São Paulo. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas no Senac Sorocaba. Sou apaixonada por tecnologia e estou sempre procurando aprimorar meus conhecimentos e habilidades na área.
 
+
 <p align="left">
     <a href="https://www.instagram.com/maduaperes/">
         <img 
@@ -9,7 +10,7 @@ Olá! Sou a Maria Eduarda, tenho 19 anos e sou do interior de São Paulo. Atualm
             title="Siga-me no instagram" 
             src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"
         />
-    </a>
+     </a>
     <a href="https://snapchat.com/t/uNpxSjK7">
         <img 
             alt="Snapchat Profile" 
@@ -34,6 +35,9 @@ Olá! Sou a Maria Eduarda, tenho 19 anos e sou do interior de São Paulo. Atualm
 </p>
 
 ---
+
+### 🤖 Linguagens e Tecnologias
+
 <img 
     align="left" 
     alt="HTML"
@@ -58,7 +62,6 @@ Olá! Sou a Maria Eduarda, tenho 19 anos e sou do interior de São Paulo. Atualm
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
 />
-
 <img 
     align="left" 
     alt="Csharp" 
@@ -71,11 +74,13 @@ Olá! Sou a Maria Eduarda, tenho 19 anos e sou do interior de São Paulo. Atualm
 <br/>
 <br/>
 
+### 📊 Estatísticas
+
 <p>
   <img 
     align="left" 
     alt="GitHub Stats" 
-    height="100" 
+    height="200" 
     style="padding-right: 10px;" 
     src="https://github-readme-stats.vercel.app/api?username=maduaperes&show_icons=true&theme=dracula&include_all_commits=true&locale=pt-br" 
   />
@@ -83,7 +88,8 @@ Olá! Sou a Maria Eduarda, tenho 19 anos e sou do interior de São Paulo. Atualm
 <img 
       align="left" 
       alt="GitHub Stats" 
-      height="90" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=maduaperes&theme=dracula&layout=compact&custom_title=Tecnologias&langs_count=9" 
+      height="200" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=larissakich&theme=dracula&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
+
 </p>
