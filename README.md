@@ -106,7 +106,7 @@ Olá! Sou a Maria Eduarda, tenho 19 anos e sou do interior de São Paulo. Atualm
 <a href="https://www.linkedin.com/in/mariaeduperes/">
         <img 
             align="right"
-            height="60" 
+            height="55" 
             alt="Seguidores" 
             title="Siga-me no GitHub" 
             src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"
