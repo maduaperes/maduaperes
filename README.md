@@ -1,4 +1,4 @@
-#  👋 Maria Eduarda
+#   Maria Eduarda
 
 Olá! Sou a Maria Eduarda, tenho 19 anos e sou do interior de São Paulo. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas no Senac Sorocaba. Sou apaixonada por tecnologia e estou sempre procurando aprimorar meus conhecimentos e habilidades na área.
 
@@ -36,7 +36,7 @@ Olá! Sou a Maria Eduarda, tenho 19 anos e sou do interior de São Paulo. Atualm
 
 ---
 
-### 💻 Linguagens e Tecnologias
+###  Linguagens e Tecnologias
 
 <img 
     align="left" 
@@ -74,7 +74,7 @@ Olá! Sou a Maria Eduarda, tenho 19 anos e sou do interior de São Paulo. Atualm
 <br/>
 <br/>
 
-### 📊 Estatísticas
+###  Estatísticas
 
 <p>
   <img 
@@ -91,5 +91,7 @@ Olá! Sou a Maria Eduarda, tenho 19 anos e sou do interior de São Paulo. Atualm
       height="144" 
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=maduaperes&theme=dracula&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
-
 </p>
+
+<img src="https://www.canva.com/design/DAGeKtlxuuo/F6s3sX0MvGKVVgx6GulA4Q/edit">
+
