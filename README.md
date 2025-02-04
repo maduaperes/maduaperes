@@ -27,7 +27,7 @@ Olá! Sou a Maria Eduarda, tenho 19 anos e sou do interior de São Paulo. Atualm
     <a href="https://github.com/maduaperes?tab=followers">
         <img 
             alt="Seguidores" 
-            title="Me siga no GitHub" 
+            title="Siga-me no GitHub" 
             src="https://custom-icon-badges.demolab.com/github/followers/maduaperes?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
         />
     </a>
