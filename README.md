@@ -75,30 +75,18 @@ Olá! Sou a Maria Eduarda, tenho 19 anos e sou do interior de São Paulo. Atualm
   <img 
     align="left" 
     alt="GitHub Stats" 
-    height="233" 
-    src="https://github-readme-stats.vercel.app/api?username=maduaperes&show_icons=true&theme=dracula" 
+    height="200" 
+    style="padding-right: 10px;" 
+    src="https://github-readme-stats.vercel.app/api?username=maduaperes&show_icons=true&theme=dracula&include_all_commits=true&locale=pt-br" 
   />
-</p>
 
-<p>
-  <img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="168" 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=maduaperes&theme=dracula" 
+<img 
+      align="left" 
+      alt="GitHub Stats" 
+      height="200" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=maduaperes&theme=dracula&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
-</p>
 
-<p>
-<a href="https://www.linkedin.com/in/mariaeduperes/">
-        <img 
-            align="right"
-            height="30" 
-            alt="Seguidores" 
-            title="Siga-me no GitHub" 
-            src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"
-        />
-    </a>
 </p>
 
 
