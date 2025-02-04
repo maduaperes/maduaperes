@@ -70,7 +70,6 @@ Olá! Sou a Maria Eduarda, tenho 19 anos e sou do interior de São Paulo. Atualm
 />
 <br/>
 <br/>
-
 <p>
   <img 
     align="left" 
@@ -79,12 +78,8 @@ Olá! Sou a Maria Eduarda, tenho 19 anos e sou do interior de São Paulo. Atualm
     src="https://github-readme-stats.vercel.app/api?username=maduaperes&show_icons=true&theme=dracula" 
   />
 </p>
+<img src="https://github.com/user-attachments/assets/d852cc5b-6ba6-4b46-b660-98cd1a1249e5" width="200" align="right"/>
 <p>
-<br><br>
-<br><br>
-<br><br>
-<br><br>
-<br><br>
 <br><br>
   <img 
     align="left" 
