@@ -70,6 +70,14 @@ Olá! Sou a Maria Eduarda, tenho 19 anos e sou do interior de São Paulo. Atualm
     style="padding-right: 10px;" 
     src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" 
 />
+<img 
+    align="left" 
+    alt="Java" 
+    title="Java"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg"
+    />
 
 <br/>
 <br/>
