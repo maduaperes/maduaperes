@@ -100,3 +100,5 @@ Olá! Sou a Maria Eduarda, tenho 19 anos e sou do interior de São Paulo. Atualm
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=maduaperes&theme=dracula&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
 </p>
+
+![Snake animation](https://github.com/maduaperes/maduaperes/blob/output/github-contribution-grid-snake.svg)
