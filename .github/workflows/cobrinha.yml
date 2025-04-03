@@ -1,46 +1,42 @@
-# Nome da Actions:  
 name: Snake Game
 
-# Controlador do tempo que sera feito a atualização dos arquivos.
 on:
   schedule:
-      # Será atualizado a cada 5 horas.
+    # Será atualizado a cada 5 horas.
     - cron: "0 */5 * * *"
+  workflow_dispatch:  # Permite execução manual
 
-# Permite executar na na lista de Actions (utilizado para testes de build).
-  workflow_dispatch:
-
-# Regras
 jobs:
   build:
     runs-on: ubuntu-latest
     steps:
 
-    # Checks repo under $GITHUB_WORKSHOP, so your job can access it
-      - uses: actions/checkout@v2
+    # Faz checkout do repositório
+    - uses: actions/checkout@v2
 
     # Repositorio que será utilizado para gerar os arquivos.
-      - uses: Platane/snk@master
-        id: snake-gif
-        with:
-          github_user_name: maduaperes #Seu usuario
-          gif_out_path: dist/github-contribution-grid-snake.gif
-          svg_out_path: dist/github-contribution-grid-snake.svg
+    - uses: Platane/snk@master
+      id: snake-gif
+      with:
+        github_user_name: maduaperes  # Substitua pelo seu nome de usuário
+        gif_out_path: dist/github-contribution-grid-snake.gif  # Gera GIF
+        svg_out_path: dist/github-contribution-grid-snake.svg  # Gera SVG
 
-      - run: git status
+    # Exibe status do git (apenas para verificação)
+    - run: git status
 
-      # Para as atualizações.
-      - name: Push changes
-        uses: ad-m/github-push-action@master
-        with:
-          github_token: ${{ secrets.GITHUB_TOKEN }}
-          branch: master
-          force: true
+    # Faz commit e push das mudanças para o repositório
+    - name: Commit changes and push
+      uses: ad-m/github-push-action@master
+      with:
+        github_token: ${{ secrets.GITHUB_TOKEN }}
+        branch: output  # Push para o branch 'output'
+        force: true
 
-      - uses: crazy-max/ghaction-github-pages@v2.1.3
-        with:
-          # the output branch we mentioned above
-          target_branch: output
-          build_dir: dist
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+    # Faz deploy do conteúdo para a página GitHub Pages
+    - uses: crazy-max/ghaction-github-pages@v2.1.3
+      with:
+        target_branch: output  # Branch onde os arquivos serão enviados
+        build_dir: dist  # Diretório de saída onde os arquivos (GIF, SVG) foram gerados
+      env:
+        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
