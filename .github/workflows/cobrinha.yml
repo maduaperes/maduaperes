@@ -6,7 +6,7 @@ on:
     - cron: "0 */5 * * *"
   workflow_dispatch:  # Permite execução manual
 
-  permissions:
+permissions:
   contents: write
   pull-requests: write
 
