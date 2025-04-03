@@ -101,4 +101,4 @@ Olá! Sou a Maria Eduarda, tenho 19 anos e sou do interior de São Paulo. Atualm
   />
 </p>
 
-![snake gif](https://github.com/maduaperes/maduaperes/blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://github.com/maduaperes/maduaperes/blob/output/github-contribution-grid-snake-dark.svg)
