@@ -1,6 +1,6 @@
-#  👋 Maria Eduarda
+#  👋 Olá, me chamo Maria Eduarda
 
-Olá! Sou a Maria Eduarda, tenho 19 anos e sou do interior de São Paulo. Atualmente, formada em técnico de Análise e Desenvolvimento de Sistemas no Senac Sorocaba e graduanda em Ciência da Computação na UNIP. Sou apaixonada por tecnologia e estou sempre procurando aprimorar meus conhecimentos e habilidades na área.
+Sou técnica em Análise e Desenvolvimento de Sistemas pelo Senac Sorocaba e atualmente graduanda em Ciência da Computação na UNIP. Sou apaixonada por tecnologia e busco constantemente evoluir minhas habilidades para criar soluções inovadoras.
 
 
 <p align="left">
