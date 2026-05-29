@@ -6,9 +6,9 @@ Sou técnica em **Análise e Desenvolvimento de Sistemas** pelo Senac Sorocaba e
   <a href="https://www.instagram.com/maduaperes/" target="_blank" rel="noopener noreferrer">
     <img alt="Instagram" title="Siga-me no Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
-  <a href="https://snapchat.com/t/uNpxSjK7" target="_blank" rel="noopener noreferrer">
-    <img alt="Snapchat" title="Siga-me no Snapchat" src="https://img.shields.io/badge/Snapchat-FFFC00?style=for-the-badge&logo=snapchat&logoColor=black" />
-  </a> 
+<a href="https://www.linkedin.com/feed/" target="_blank" rel="noopener noreferrer">
+    <img alt="LinkedIn" title="Siga-me no LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
   <a href="https://www.facebook.com/profile.php?id=61552514643751" target="_blank" rel="noopener noreferrer">
     <img alt="Facebook" title="Siga-me no Facebook" src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
   </a>
