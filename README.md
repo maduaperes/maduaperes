@@ -34,10 +34,16 @@ Sou técnica em **Análise e Desenvolvimento de Sistemas** pelo Senac Sorocaba e
 
 ### 📊 Estatísticas de Desempenho
 
-<p align="left">
-  <img alt="Estatísticas do GitHub" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=maduaperes&theme=dracula" height="150" style="margin-right: 10px;" />
-  <img alt="Streak de Contribuições" src="https://github-readme-streak-stats.herokuapp.com/?user=maduaperes&theme=dracula" height="150" />
-</p>
+<table>
+  <tr>
+    <td valign="top" width="50%">
+      <img alt="Estatísticas do GitHub" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=maduaperes&theme=dracula" width="100%" />
+    </td>
+    <td valign="top" width="50%">
+      <img alt="Streak de Contribuições" src="https://github-readme-streak-stats.herokuapp.com/?user=maduaperes&theme=dracula" width="100%" />
+    </td>
+  </tr>
+</table>
 
 ---
 
