@@ -3,7 +3,7 @@
 Sou técnica em **Análise e Desenvolvimento de Sistemas** pelo Senac Sorocaba e graduanda em **Ciência da Computação** na UNIP. Apaixonada por tecnologia, busco constantemente evoluir minhas habilidades técnicas e analíticas para arquitetar soluções digitais eficientes e inovadoras.
 
 <p align="left">
-  <a href="https://www.instagram.com/maduaperes/" target="_blank" rel="noopener noreferrer">
+  <a href="https://www.instagram.com/devmaduperes/" target="_blank" rel="noopener noreferrer">
     <img alt="Instagram" title="Siga-me no Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
 <a href="https://www.linkedin.com/feed/" target="_blank" rel="noopener noreferrer">
